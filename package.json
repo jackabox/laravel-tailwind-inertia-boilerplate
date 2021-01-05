@@ -12,7 +12,7 @@
     "devDependencies": {
         "@babel/plugin-syntax-dynamic-import": "^7.2.0",
         "autoprefixer": "^9.6.1",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "cross-env": "^5.2.0",
         "inertia-vue": "inertiajs/inertia-vue",
         "laravel-mix": "^4.0.7",
