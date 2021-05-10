@@ -16,7 +16,7 @@
         "cross-env": "^5.2.0",
         "inertia-vue": "inertiajs/inertia-vue",
         "laravel-mix": "^4.0.7",
-        "lodash": "^4.17.13",
+        "lodash": "^4.17.21",
         "postcss-import": "^12.0.1",
         "postcss-nesting": "^7.0.0",
         "tailwindcss": "^1.0.5",
